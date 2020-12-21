@@ -1,0 +1,97 @@
+{
+    departamento:"Chimaltenango",
+    municipios: [
+        {
+            nombre:"Chimaltenango",
+            directorio:[
+                {
+                    Fiscalia:"Fiscalía de Distrito",
+                    Direccion:"2a Avenida 4-30 Zona 1",
+                    Telefonos:[
+                        {
+                            numero:"7839-7902"
+                        },
+                        {
+                            numero:"7839-4243"
+                        }
+                    ]
+                },
+                {
+                    Fiscalia:"Agencia Fiscal, Adolescentes en conflicto con la Ley Penal",
+                    Direccion:"2a Avenida 4-30 Zona 1. (Fiscalia Distrital)",
+                    Telefonos:[
+                        {
+                            numero:"7839-2571"
+                        },
+                        {
+                            numero:"7839-2655"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            nombre:"San Martin Jilotepeque",
+            directorio:[
+                {
+                    Fiscalia:"Fiscalia Municipal",
+                    Direccion:"Barrio La Joya, San Martin Jilotepeque",
+                    Telefonos:[
+                        {
+                            numero:"Pend. Instalacion de Lineas"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+
+{
+    departamento:"Sacatepéquez",
+    municipios: [
+        {
+            nombre:"Antigua Guatemala",
+            directorio:[
+                {
+                    Fiscalia:"Fiscalía de Distrito",
+                    Direccion:"6a Avenida Norte Número 22 y 20 A Entrada Principal",
+                    Telefonos:[
+                        {
+                            numero:"30100: Jefatura"
+                        },
+                        {
+                            numero:"30101: Jefatura "
+                        }
+                    ]
+                },
+                {
+                    Fiscalia:"Juzgado de Turno, MP.",
+                    Direccion:"Avenida del Desengaño No. 12",
+                    Telefonos:[
+                        {
+                            numero:"7832-4563"
+                        },
+                        {
+                            numero:"Fax: 7832-4574"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            nombre:"San Lucas Sacatepequez",
+            directorio:[
+                {
+                    Fiscalia:"Fiscalia Municipal",
+                    Direccion:"6ta. Avenida 5-01 zona 1, San Lucas Sacatepequez P",
+                    Telefonos:[
+                        {
+                            numero:"Pend. Instalacion de Lineas"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

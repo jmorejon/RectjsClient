@@ -1,0 +1,5 @@
+db.depertamento.update(
+   {},
+   { $set: { "municipios.$[n].directorio.$[f].Telefonos.$[tel]": "7839-1717" } },
+   { arrayFilters: [ { "n.nombre": "Chimaltenango" } , { "f.Fiscalia": "Fiscalía de Distrito" }, {"tel.numero":"7839-2655"} ], multi: true}
+)
